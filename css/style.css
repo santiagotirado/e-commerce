@@ -1,0 +1,24 @@
+#mysearch {
+	margin-bottom: 10px;
+}
+
+#navheader {
+	background: black;
+	font: #FFFFFF;
+}
+
+#myshirts {
+	margin-top: 20px;
+}
+
+#shirt {
+	border-color: gray;
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-o-border-radius: 5px;
+}
+
+.tab-pane {
+	padding: 15px;
+}
